@@ -1,7 +1,7 @@
 # Vue.Js
-#First install Npm
- #Npm install
+#First install Npm using Npm install
  
- #Then run
- #NPM run serve
+ 
+ #Then run using NPM run serve
+ 
  
